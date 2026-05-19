@@ -135,9 +135,9 @@ Windows думает, что это обычный диск
 - копирует exe и dll
 - устанавливает WinFsp
 - добавляет автозапуск сервиса
-ДЛЯ ОТКЛЮЧЕНИЯ АВТОЗАПУСКА СЕРВИСА
-- можно удалить VirtualFS service из реестра: - HKCU\Software\Microsoft\Windows\CurrentVersion\Run
-- при удалении программы *unins000.exe* - сервис удаляется автоматически.
+- ДЛЯ ОТКЛЮЧЕНИЯ АВТОЗАПУСКА СЕРВИСА:
+-- можно удалить VirtualFS service из реестра: - HKCU\Software\Microsoft\Windows\CurrentVersion\Run
+-- при удалении программы *unins000.exe* - сервис удаляется автоматически.
 
 
 
